@@ -1,0 +1,25 @@
+﻿body {
+	margin:0;
+	padding:0;
+}
+.edit_item_box {
+	margin:10px auto;
+	width:900px;
+
+}
+
+.editing,
+.ordering {
+	margin:0;
+}
+
+.editing a,
+.ordering a {
+	text-decoration:none;
+	color:black;
+	border-bottom: 1px dashed black;	
+}
+
+.editing a{
+	border:0;
+}
